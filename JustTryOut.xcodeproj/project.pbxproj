@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					3113503B1DB39C020083D32B = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = ZT3JC2GU79;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZT3JC2GU79;
 				INFOPLIST_FILE = JustTryOut/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Baljinder.JustTryOut;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZT3JC2GU79;
 				INFOPLIST_FILE = JustTryOut/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Baljinder.JustTryOut;
